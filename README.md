@@ -3,7 +3,7 @@ _A repository that contains Tools for modding SCP - Containment Breach, this col
 
 (Wiki maybe will really complicated for you, i know my english sucks XD)
 
-* *Go to **[Wiki](https://github.com/WH0LEWHALE/scp-mt-collection/wiki)** Page for Information and Tutorial*
+* *Go to **[Wiki](https://github.com/WH0LEWHALE/scp-mt-collection/wiki/Tutorial-(Vanilla-Game)-%F0%9F%91%8C)** Page for Information and Tutorial*
 
 ```diff
 - This repository is WIP(Work In Progress) so just be patient while we making this repository more good.
