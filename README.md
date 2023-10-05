@@ -1,5 +1,8 @@
 # scp-mt-collection
 _A repository that contains Tools for modding SCP - Containment Breach, this collection just made for find modding tools easily._
+
+(Wiki maybe will really complicated for you, i know my english sucks XD)
+
 * *Go to **[Wiki](https://github.com/WH0LEWHALE/scp-mt-collection/wiki)** Page for Information and Tutorial*
 
 ```diff
