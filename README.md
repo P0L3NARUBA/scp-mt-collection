@@ -12,8 +12,6 @@ _A repository that contains Tools for modding SCP - Containment Breach, this col
 + Most of the repository are done, but its not fully done yet.
 ```
 
-___I hope this repository will help you about modding SCP: Containment Breach (This repository just includes compiling tutorial and the tools.)___
-
-You Need to know Blitz Coding Language for making good mods.
+___I hope my repository is help you about modding SCP: Containment Breach (This repository just includes compiling tutorial and tools.)___
 
 _- Brudder (WH0LEWHALE)_
