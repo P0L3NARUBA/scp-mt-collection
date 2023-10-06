@@ -1,3 +1,4 @@
+<img src="https://github.com/WH0LEWHALE/scp-mt-collection/assets/146978592/45d426ea-14f8-4cdd-a011-471ad3f04050" width="1280" height="300">
 
 # scp-mt-collection | SCP:CB Modding Tools Collection
 ***
