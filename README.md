@@ -3,18 +3,10 @@
 # scp-mt-collection | SCP:CB Modding Tools Collection
 ***
 _A repository that contains Tools for modding SCP - Containment Breach, this collection just made for find modding tools easily._
-***
+
 
 * *Go to **[Wiki](https://github.com/WH0LEWHALE/scp-mt-collection/wiki/Tutorial)** Page for Information and Tutorial about Compiling*
-
-```diff
-@@ SCP:CB MODDING TOOLS COLLECTION @@
-- This repository is WIP(Work In Progress) so just be patient while we making this repository more good.
-+ Most of the repository are done, but its not fully done yet.
-+ The tutorial is Successfully Completed, now my job is done about tutorial.
-@@ SCP:CB MODDING TOOLS COLLECTION @@
-```
-***
+  
 
 # <div align="center">Need To Know
   ___<div align="center">This repository just includes compiling tutorial and tools.</div>___
