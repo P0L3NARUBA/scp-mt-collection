@@ -18,8 +18,8 @@ _A repository that contains Tools for modding SCP - Containment Breach, this col
 
 # <div align="center">Need To Know
   ___<div align="center">This repository just includes compiling tutorial and tools.</div>___
-  ___<div align="center"> The Compiling is very easy but when Coding time comes, this game will be your nightmare xD</div>___
- ___<div align="center"> If your PC is 4GB or Lower then you need to apply 4GB Patch to your game executable that you compiled.</div>___
+  ___<div align="center">The Compiling is very easy right? but if you dont know Coding, you may be in trouble with modding.</div>___
+ ___<div align="center">If your PC is 4GB or Lower then you need to apply 4GB Patch to your game executable that you compiled.</div>___
 __<div align="center">Thats all you need to know for now.</div>__
 ***
 
