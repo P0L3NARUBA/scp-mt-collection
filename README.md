@@ -24,5 +24,5 @@ __<div align="center">Thats all you need to know for now.</div>__
 **And giving credit for who created these mods or files.**
 
 ***
-- If you have any issues just contact with me on Discord, Youtube or **[Open New Issue and say your problem.](https://github.com/WH0LEWHALE/scp-mt-collection/issues)**  (you can found my social media accounts on my profile!)
+- If you have any issues just **[Open New Issue and say your problem.](https://github.com/WH0LEWHALE/scp-mt-collection/issues)**
 ***
