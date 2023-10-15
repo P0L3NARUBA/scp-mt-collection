@@ -21,7 +21,7 @@ __<div align="center">Thats all you need to know for now.</div>__
 *   JABKA `Helped for the modding tools.`
 *   xtrithx `Helped for modelling, building tools.`
 
-**And giving credit for who created these mods or files.**
+**And giving credit for who created this tools.**
 
 ***
 - If you have any issues just **[Open New Issue and say your problem.](https://github.com/WH0LEWHALE/scp-mt-collection/issues)**
