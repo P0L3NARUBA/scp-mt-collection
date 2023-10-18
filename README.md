@@ -3,12 +3,6 @@ _A repository that contains Tools for modding SCP - Containment Breach, this col
 ***
 
 * *Go to **[Wiki](https://github.com/WH0LEWHALE/scp-mt-collection/wiki/)** Page for Information and Tutorial about Compiling*
-  
-
-# <div align="center">Need To Know
-  ___<div align="center">This repository just includes compiling tutorial and tools.</div>___
-  ___<div align="center">The Compiling is very easy right? but if you dont know Coding, you may be in trouble with modding.</div>___
-***
 
 # CREDITS & HELPERS
  *  Regalis `SCP:CB Creator/Owner.`
