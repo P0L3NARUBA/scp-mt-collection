@@ -4,5 +4,5 @@ _A repository that contains Tools for modding SCP - Containment Breach, this col
 
 * *Go to **[Wiki](https://github.com/P0L3NARUBA/scp-mt-collection/wiki)** Page for Information and Tutorial about Compiling*
 
-- If you have any issues just **[Open New Issue and say your problem.](https://github.com/P0L3NARUBA/scp-mt-collection/issues)**
+- If you have any issues just **[Open New Issue and tell your problem.](https://github.com/P0L3NARUBA/scp-mt-collection/issues)**
 ***
